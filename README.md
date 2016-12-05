@@ -148,13 +148,13 @@ this is the structure of the file , so we have 3 parts :
  
 3)(YOUR MENU SIDE CONTENT): the content of the menu .
   to close menu after clicking on button  ,just add 'menu-and-drawer-toggle' For exemple:
-  
+```html
 <a class="item item-icon-left" href="#" menu-and-drawer-toggle>
 	<i class="icon ion-ios-home"></i> HOME
 </a>
-     
+```    
  Then the ful content of this part will be :
- 
+```html
 <div class="list">
 
 	<a class="item item-icon-left" href="#" menu-and-drawer-toggle>
@@ -169,9 +169,9 @@ this is the structure of the file , so we have 3 parts :
 		<i class="icon ion-android-call"></i> CONTACT US
 	</a>
 </div>
-
+```
                       
- SO REPLACE THIS CODE INSTEAD OF :<!-- YOUR MENU SIDE CONTENT  -->
+SO REPLACE THIS CODE INSTEAD OF :<!-- YOUR MENU SIDE CONTENT  -->
 
  
  <h3>An Exemple of androidmenu.html</h3>
