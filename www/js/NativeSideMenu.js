@@ -1,8 +1,3 @@
-/**
- * Generated on Tue March 15 2016 12:28:43 (India Standard Time)
- * Author : Sandeep Vedam
- * Ionic Native SideMenu(Ionic Drawer)
- */
 
 
 (function() {
